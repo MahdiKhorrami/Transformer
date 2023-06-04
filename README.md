@@ -4,7 +4,7 @@
 ### Description
 This GitHub repository contains the code and data files associated with my seminar course project on analyzing specific event logs.
 The code provided here implements the algorithms and methodologies discussed in the accompanying paper, "ProcessTransformer: Predictive Business Process Monitoring with Transformer Network" by A. Bukhsh et al.
-The paper serves as a valuable reference for understanding the motivation, methodology, and results of this project.
+The paper serves as a valuable reference for understanding the motivation, methodology, and results of the project.
 
 
 
